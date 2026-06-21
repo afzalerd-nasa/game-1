@@ -1,0 +1,6 @@
+{
+  "name": "Magic Kids World",
+  "description": "An interactive, educational 3D-isometric adventure game for children. Explore magical areas, solve learning puzzles, customize your character, and complete mini-games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
